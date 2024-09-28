@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul li{
+    display: inline;
+}
+img[alt="Advertise"]{
+    width: 80px;
+    height: 50px;
+    margin-left: 80px;
+    margin-right: 350px;
+    margin-top: 30px;
+}
+#section1{
+    height: 76px;
+    color: #212529;
+    border: 2px solid lightgrey;
+    
+}
+li a{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+a:hover{
+    color: orangered;
+   
+}
+a button{
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 3px 8px;
+}
+li,a{
+    position: relative;
+    left: 50px;
+    top:-15px;
+}
+#section2{
+    width: 467px;
+    height: 300px;
+    margin-top: 80px;
+    margin-left: 80px;
+    display: block;
+    border:  2px solid;
+}
+p{
+    font-size: 1.25rem;
+    font-weight: 300px;
+    padding-bottom: 30px;
+}
+h1{
+    font-weight:700px ;
+    font-size:1.325rem ;
+    padding-bottom: 30px;
+}
+input[class="pos1"]{
+    background-color: orangered;
+    color: white;
+    border: none;
+    font-size: 1.25rem;
+    border-radius: 0.5rem;
+   padding:8px 8px;
+}
+.div1{
+    border: solid;
+    width: 50;
+    position: relative;
+    left:600px;
+    display: inline;
+    margin-top: 200px;
+    height: 200px;
+}
+  #img1{
+    position: relative;
+    left: 600px;
+    padding-top: 100px;
+    display: inline;
+  }

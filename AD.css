@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nav1{
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background-color: white;
+    padding-left:70px;
+
+}
+#sec1{
+    width: 100%;
+    display: flex;
+    padding-top: 10px;
+}
+#sec1 ul{
+    list-style-type: none;
+    display: flex;
+    padding-left: 250px;
+}
+#sec1 ul:hover{
+    cursor: pointer;
+}
+.nav2{
+    width: 100%;
+    height: 100px;
+    padding: 60px 0px;
+}
+.nav2 ul{
+    width: 50%;
+  display: flex;
+  padding-top: 5px;
+  list-style-type: none;
+  float: right;
+  padding-top: 40px;
+  padding-left: 245px;
+}
+
+.nav3{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    padding-left: 95px;
+    padding-right: 165px;
+    margin-top: 30px;
+}
+.nav3 ul{
+    display: flex;
+    list-style-type: none;
+    color: white;
+    justify-content: space-between;
+    font-size: 12px;
+    padding-top: 10px;
+}
+.nav3 ul:hover{
+    cursor: pointer;
+
+
+}
+.nc1{
+    width: 100%;
+    height: 120px;
+    text-align: center;
+    margin-top: 45px;
+    padding-top: 10px;
+}
+.nc2 img{
+    width: 260px;
+    height: 400px;
+}
+.nc2 img:hover{
+    transform: scale(1.1 ,1.1);
+    cursor: pointer;
+}
+.nc2{
+    width: 100%;
+    height: 500px;
+    margin-top: 80px;
+    display: flex;
+    padding-left: 6px;
+}
+.nc3 img{
+    width: 260px;
+    height: 400px;
+}
+.nc3 img:hover{
+    cursor: pointer;
+    transform: scale(1.1 ,1.1);
+}
+.nc3{
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
+    display: flex;
+    margin-bottom: 20px;
+    padding-left: 6px;
+}
+
+.ft1{
+    width: 80%;
+    height: 260px;
+    text-align: center;
+    border: solid;
+    padding: 10px 30px;
+    border: solid rgba(0, 0, 0, 0.342);
+    margin: auto;
+    margin-bottom: 60px;
+}
+.ft1:hover{
+    cursor: pointer;
+}
+.ft2{
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.76)), url("https://absolutelydesi.com/wp-content/uploads/2021/01/Dress-Material-2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.ft2 i{
+    
+     width: 32px;
+     height: 32px;
+     border-radius: 50%;
+     background-color: white;
+     text-align: center;
+     padding-right: 25px;
+     padding-top: 6px;
+}
+.ft2 ul{
+    display: flex;
+    list-style-type: none;
+    color: white;
+    justify-content: space-around;
+    padding: 30px 150px;
+}
+.ft2 ul:hover{
+    cursor: pointer;
+}
+.ft3{
+    width: 100%;
+    height: 80px;
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.ft3 p:hover{
+    cursor: pointer;
+}
+.adve{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 40px;
+
+}
+#sub{
+    padding-left: 500px;
+}
+/*.sarees{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    margin-top: 80px;
+    display: flex;
+    padding-left: 6px;
+}

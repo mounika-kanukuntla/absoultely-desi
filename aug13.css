@@ -1,0 +1,9 @@
+p{
+    font-family: mounika;
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+    font-family: mounika;
+    src: url(./EduVICWANTBeginner-VariableFont_wght.ttf);
+}
